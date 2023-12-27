@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "title": "Куртка",
+      "price": 2000,
+      "description": "Летняя куртка для мальчика",
+      "category": "clothes",
+      "images": [
+        "http://gd1.alicdn.com/bao/uploaded/i1/2956389838/TB29y4.Xswb61BjSszgXXbfDVXa_!!2956389838.jpg",
+        "http://gd1.alicdn.com/bao/uploaded/i1/2956389838/TB29y4.Xswb61BjSszgXXbfDVXa_!!2956389838.jpg",
+        "http://gd1.alicdn.com/bao/uploaded/i1/2956389838/TB29y4.Xswb61BjSszgXXbfDVXa_!!2956389838.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "title": "детская футболка",
+      "price": 500,
+      "description": "Красивая детская футболка для мальчиков",
+      "category": "clothes",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=aafe68fa49c7006ebf9b7641c06369e9791eb3e8-9291097-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=aafe68fa49c7006ebf9b7641c06369e9791eb3e8-9291097-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=aafe68fa49c7006ebf9b7641c06369e9791eb3e8-9291097-images-thumbs&n=13"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Футболка",
+      "price": 550,
+      "description": "Футболка с красивым принтом",
+      "category": "clothes",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-d/6625760881.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-d/6625760881.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-d/6625760881.jpg"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Футболка с корабликом",
+      "price": 444,
+      "description": "Футболка с корабликом для мальчиков",
+      "category": "clothes",
+      "images": [
+        "https://ae01.alicdn.com/kf/HTB1ksKlgTnI8KJjSszbq6z4KFXac/VIDMID-1-10.jpg",
+        "https://ae01.alicdn.com/kf/HTB1ksKlgTnI8KJjSszbq6z4KFXac/VIDMID-1-10.jpg",
+        "https://ae01.alicdn.com/kf/HTB1ksKlgTnI8KJjSszbq6z4KFXac/VIDMID-1-10.jpg"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Штанишки для мальчика",
+      "price": 350,
+      "description": "Красные штанишки для мальчика",
+      "category": "clothes",
+      "images": [
+        "https://ae01.alicdn.com/kf/HTB1ciqhaUvrK1RjSszfq6xJNVXaT.jpg",
+        "https://ae01.alicdn.com/kf/HTB1ciqhaUvrK1RjSszfq6xJNVXaT.jpg",
+        "https://ae01.alicdn.com/kf/HTB1ciqhaUvrK1RjSszfq6xJNVXaT.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Брюки",
+      "price": 450,
+      "description": "Летние брюки для мальчика",
+      "category": "clothes",
+      "images": [
+        "https://img.joomcdn.net/376660c5e0808074d4e5287d99a6896aac17fb29_original.jpeg",
+        "https://img.joomcdn.net/376660c5e0808074d4e5287d99a6896aac17fb29_original.jpeg",
+        "https://img.joomcdn.net/376660c5e0808074d4e5287d99a6896aac17fb29_original.jpeg"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Штаны спортивные",
+      "price": 600,
+      "description": "Спортивные штаны для мальчика. В наличие имеются разные расцветки ",
+      "category": "clothes",
+      "images": [
+        "https://sportishka.com/uploads/posts/2022-08/1660204257_3-sportishka-com-p-sportivnie-bryuki-malchiku-sport-krasivo-f-3.jpg",
+        "https://sportishka.com/uploads/posts/2022-08/1660204257_3-sportishka-com-p-sportivnie-bryuki-malchiku-sport-krasivo-f-3.jpg",
+        "https://sportishka.com/uploads/posts/2022-08/1660204257_3-sportishka-com-p-sportivnie-bryuki-malchiku-sport-krasivo-f-3.jpg"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Пирамидка",
+      "price": 200,
+      "description": "Развивающая игрушка пирамидка для детей",
+      "category": "Educational",
+      "images": [
+        "https://www.cmp24.ru/images/prodacts/sourse/128/128292_igrushka-melissaamp-doug-melissadoug-geometricheskaya-piramidka-567m.jpg",
+        "https://avatars.mds.yandex.net/get-mpic/3725687/img_id315337871261170830.jpeg/orig",
+        "https://ae01.alicdn.com/kf/H2dfdcb0c0ea544169fc008a4d09e1ea9I/-.jpg"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Развивающий кубик",
+      "price": 300,
+      "description": "Развивающий кубик для детей, в который необходимо правильно вставить все фигурки на свои места",
+      "category": "Educational",
+      "images": [
+        "https://sidex.ru/images_offers/1072/1072510/sorter_aelita_1.jpg",
+        "https://sidex.ru/images_offers/1072/1072510/sorter_aelita_1.jpg",
+        "https://sidex.ru/images_offers/1072/1072510/sorter_aelita_1.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "title": "Мячики",
+      "price": 250,
+      "description": "Разноцветные развивающие мячики",
+      "category": "Educational",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-m/6005505142.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-m/6005505142.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-m/6005505142.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "title": "Головоломка",
+      "price": 300,
+      "description": "Головоломка для детей",
+      "category": "Educational",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/5139700/img_id4684264155674030840.jpeg/orig",
+        "https://avatars.mds.yandex.net/get-mpic/5139700/img_id4684264155674030840.jpeg/orig",
+        "https://avatars.mds.yandex.net/get-mpic/5139700/img_id4684264155674030840.jpeg/orig"
+      ],
+      "id": 11
+    },
+    {
+      "title": "Сандалики",
+      "price": 300,
+      "description": "Летние удобные сандалики для детей на липучках",
+      "category": "shoes",
+      "images": [
+        "https://mykaleidoscope.ru/uploads/posts/2021-11/1635741708_138-mykaleidoscope-ru-p-ortopedicheskaya-obuv-dlya-zhenshchin-devu-140.jpg",
+        "https://mykaleidoscope.ru/uploads/posts/2021-11/1635741708_138-mykaleidoscope-ru-p-ortopedicheskaya-obuv-dlya-zhenshchin-devu-140.jpg",
+        "https://mykaleidoscope.ru/uploads/posts/2021-11/1635741708_138-mykaleidoscope-ru-p-ortopedicheskaya-obuv-dlya-zhenshchin-devu-140.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "title": "Кеды",
+      "price": 500,
+      "description": "Детские кеды, вариант летний для мальчиков и девочек на шнурках.",
+      "category": "shoes",
+      "images": [
+        "https://ae04.alicdn.com/kf/H4a84aa22494e4f148020337be1f17fc4w.jpg",
+        "https://ae04.alicdn.com/kf/H4a84aa22494e4f148020337be1f17fc4w.jpg",
+        "https://ae04.alicdn.com/kf/H4a84aa22494e4f148020337be1f17fc4w.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "title": "Кроссовки детские",
+      "price": 600,
+      "description": "Кроссовки детские, летний вариант, унисекс, в наличие все цвета",
+      "category": "shoes",
+      "images": [
+        "http://g02.a.alicdn.com/kf/HTB1veXmIpXXXXb2aXXXq6xXFXXXH/Spring-Children-Shoes-Girl-Breathable-Sneaker-Shoe-Boys-and-Girls-Mesh-Not-Smelly-Feet-Soft-Chaussure.jpg",
+        "http://g02.a.alicdn.com/kf/HTB1veXmIpXXXXb2aXXXq6xXFXXXH/Spring-Children-Shoes-Girl-Breathable-Sneaker-Shoe-Boys-and-Girls-Mesh-Not-Smelly-Feet-Soft-Chaussure.jpg",
+        "http://g02.a.alicdn.com/kf/HTB1veXmIpXXXXb2aXXXq6xXFXXXH/Spring-Children-Shoes-Girl-Breathable-Sneaker-Shoe-Boys-and-Girls-Mesh-Not-Smelly-Feet-Soft-Chaussure.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "title": "Ботинки",
+      "price": 700,
+      "description": "Осенне-весенние ботиночки ",
+      "category": "shoes",
+      "images": [
+        "https://fainaidea.com/wp-content/uploads/2020/05/baby-shoes-3881525_960_720.jpg",
+        "https://fainaidea.com/wp-content/uploads/2020/05/baby-shoes-3881525_960_720.jpg",
+        "https://fainaidea.com/wp-content/uploads/2020/05/baby-shoes-3881525_960_720.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "title": "Кукла Adora",
+      "price": 500,
+      "description": "Красивая кукла с подвижными частями тела",
+      "category": "Dolls",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=f14ed7f82ccf6158fd9715b7dd8917302b93bcf7-10934180-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=f14ed7f82ccf6158fd9715b7dd8917302b93bcf7-10934180-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=f14ed7f82ccf6158fd9715b7dd8917302b93bcf7-10934180-images-thumbs&n=13"
+      ],
+      "id": 16
+    },
+    {
+      "title": "Кукла С днем рождения",
+      "price": 400,
+      "description": "Кукла с говорящим названием подойдет для подарка вашей девочке",
+      "category": "Dolls",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=b08e601e634375d9be3b264176bfb1c1023521cf-5177089-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=b08e601e634375d9be3b264176bfb1c1023521cf-5177089-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=b08e601e634375d9be3b264176bfb1c1023521cf-5177089-images-thumbs&n=13"
+      ],
+      "id": 17
+    },
+    {
+      "title": "Куртка Mayoral",
+      "price": 1000,
+      "description": "Куртка демисезонная ",
+      "category": "Верхняя одежда",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=5902403e987c57837531203dd8e9455e50e6d58f-3829399-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=5902403e987c57837531203dd8e9455e50e6d58f-3829399-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=5902403e987c57837531203dd8e9455e50e6d58f-3829399-images-thumbs&n=13"
+      ],
+      "id": 18
+    },
+    {
+      "title": "Куртка ",
+      "price": 1200,
+      "description": "Куртка Зима\\Осень",
+      "category": "Верхняя одежда",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=333f92c97875f5821a5249535eee3db87b39bdc4-9842590-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=333f92c97875f5821a5249535eee3db87b39bdc4-9842590-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=333f92c97875f5821a5249535eee3db87b39bdc4-9842590-images-thumbs&n=13"
+      ],
+      "id": 19
+    },
+    {
+      "title": "игрушка",
+      "price": 222,
+      "description": "игрушка",
+      "category": "Educational",
+      "images": [
+        "https://7960777a-2fd1-4b07-8bbb-896e98c4659c.selcdn.net/upload/prod_add3/935/product-304935-1.jpg",
+        "https://7960777a-2fd1-4b07-8bbb-896e98c4659c.selcdn.net/upload/prod_add3/935/product-304935-1.jpg",
+        "https://7960777a-2fd1-4b07-8bbb-896e98c4659c.selcdn.net/upload/prod_add3/935/product-304935-1.jpg"
+      ],
+      "id": 20
+    },
+    {
+      "title": "игрушка 2",
+      "price": 111,
+      "description": "игрушка детская",
+      "category": "Educational",
+      "images": [
+        "https://img.s-fl.ru/img/catalog/big/c_28_818_1609641527.jpg",
+        "https://img.s-fl.ru/img/catalog/big/c_28_818_1609641527.jpg",
+        "https://img.s-fl.ru/img/catalog/big/c_28_818_1609641527.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "title": "игрушка 3",
+      "price": 444,
+      "description": "игрушка мягкая",
+      "category": "Educational",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-5/6564128975.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-5/6564128975.jpg",
+        "https://cdn1.ozone.ru/s3/multimedia-5/6564128975.jpg"
+      ],
+      "id": 22
+    },
+    {
+      "title": "гранатомет",
+      "price": 400,
+      "description": "игрушка",
+      "category": "Educational",
+      "images": [
+        "https://polesie-igrushki.ru/upload/iblock/ab7/igrushechnyj_detskij_ruchnoj_granatomyot_01.jpg",
+        "https://polesie-igrushki.ru/upload/iblock/ab7/igrushechnyj_detskij_ruchnoj_granatomyot_01.jpg",
+        "https://polesie-igrushki.ru/upload/iblock/ab7/igrushechnyj_detskij_ruchnoj_granatomyot_01.jpg"
+      ],
+      "id": 23
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "",
+      "visibleName": "Категория",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "",
+      "visibleName": "Все товары",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Educational",
+      "visibleName": "Развивающие",
+      "image": "https://karapuzov.ru/upload/iblock/f3a/f3a8d42f5144e9a6df65976ab04f59cb.jpg"
+    },
+    {
+      "id": 3,
+      "name": "clothes",
+      "visibleName": "Одежда",
+      "image": "https://minisklad.s3.eu-central-1.amazonaws.com/store/infopage/92/headline_image/565c2f200cf67756774851ed4451ee5e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "shoes",
+      "visibleName": "Обувь",
+      "image": "https://cdn.fishki.net/upload/post/2020/06/15/3345198/3ab6aaca4e9342ca0e9d0f0d11898e67.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dolls",
+      "visibleName": "Куклы",
+      "image": "http://s.marketwatch.com/public/resources/images/MW-EY320_americ_ZG_20161020123859.jpg"
+    },
+    {
+      "visibleName": "Верхняя одежда",
+      "image": "https://ladyneeds.ru/wp-content/uploads/2021/03/32-7-864x1080.jpg",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "denzis227@gmail.com",
+      "password": "885623",
+      "name": "Sheff",
+      "role": "admin",
+      "avatar": "https://shapka-youtube.ru/wp-content/uploads/2020/08/man-silhouette.jpg",
+      "history": {},
+      "id": 6
+    },
+    {
+      "email": "ddd@gmail.com",
+      "password": "456",
+      "name": "456",
+      "role": "customer",
+      "avatar": "https://shapka-youtube.ru/wp-content/uploads/2020/08/man-silhouette.jpg",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 8
+    },
+    {
+      "email": "denzis227@gmail.com",
+      "password": "885623",
+      "name": "Sheff",
+      "role": "admin",
+      "avatar": "https://avatars.mds.yandex.net/i?id=afaf00fed5cdc9ebae92f5e8b5873af192646e5a-10071204-images-thumbs&n=13",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 9
+    },
+    {
+      "email": "sadsadsa",
+      "password": "111",
+      "name": "vlad",
+      "role": "customer",
+      "avatar": "https://i.ytimg.com/vi/LPvMttasTY0/maxresdefault.jpg",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 10
+    },
+    {
+      "email": "sdsacdacdsa",
+      "password": "111",
+      "name": "Tumbochkin",
+      "role": "admin",
+      "avatar": "https://avatars.dzeninfra.ru/get-zen_doc/4471998/pub_63d3803e58ecc96e1113a5da_63d3804958ecc96e1113a9ed/scale_1200",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 11
+    }
+  ],
+  "news": [
+    {
+      "title": "Распродажа одежды ",
+      "content": "Распродажа детской одежды и обуви. Успейте купить, пока распродажа не закончилась.",
+      "description": "Эта новость полезна для тех, кто хочет успеть преобрести товар, до повышения цен.",
+      "image": "https://shopozz.ru/images/articles/article-215/p1fu40bo4bidnd6u1qmd6k31c77f.jpg",
+      "date": "12/26/2023",
+      "id": 1,
+      "comments": [],
+      "news": []
+    },
+    {
+      "title": "Распродажа одежды ",
+      "content": "Распродажа детской одежды и обуви. Успейте купить, пока распродажа не закончилась.",
+      "description": "Эта новость полезна для тех, кто хочет успеть преобрести товар, до повышения цен.",
+      "image": "https://shopozz.ru/images/articles/article-215/p1fu40bo4bidnd6u1qmd6k31c77f.jpg",
+      "date": "12/26/2023",
+      "id": 2,
+      "comments": [],
+      "news": []
+    }
+  ]
+}
